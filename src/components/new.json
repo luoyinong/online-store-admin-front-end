@@ -1,0 +1,75 @@
+{
+    "timestamp": "2018-12-17T07:25:04.958+0000",
+    "status": 200,
+    "error": null,
+    "message": "list success",
+    "path": "/admin/ad/request/list",
+    "data": [
+        {
+            "id": 2,
+            "fee": 100,
+            "product": {
+                "id": 1,
+                "name": "MIX2",
+                "price": 2499,
+                "category": {
+                    "id": 3,
+                    "name": "Cell Phones"
+                },
+                "info": "Designed by xiaomi",
+                "shop": {
+                    "id": 1,
+                    "name": "xiaomi shop",
+                    "user": {
+                        "id": 2,
+                        "username": "fenlan",
+                        "password": "$2a$10$ShzA4UnUQHEDLuUEH5aaieaTe8R7POzMNcmdrMkPU3HGhU.mzTpnK",
+                        "telephone": null,
+                        "email": null,
+                        "address": null,
+                        "updateTime": "2018-12-15T07:32:19.000+0000",
+                        "registerTime": "2018-12-15T07:30:22.000+0000",
+                        "roles": [
+                            {
+                                "id": 2,
+                                "name": "ROLE_USER"
+                            },
+                            {
+                                "id": 3,
+                                "name": "ROLE_SELLER"
+                            }
+                        ],
+                        "enabled": true,
+                        "authorities": [
+                            {
+                                "authority": "ROLE_USER"
+                            },
+                            {
+                                "authority": "ROLE_SELLER"
+                            }
+                        ],
+                        "accountNonExpired": true,
+                        "accountNonLocked": true,
+                        "credentialsNonExpired": true
+                    },
+                    "info": "www.xiaomi.com",
+                    "image": "jdsflajdfkre",
+                    "email": "xiaomi@mi.com",
+                    "telephone": "493759293",
+                    "createTime": "2018-12-15T07:32:19.000+0000",
+                    "updateTime": "2018-12-15T07:32:19.000+0000",
+                    "alipay": null
+                },
+                "image": "dhgkrhgkldhgksr",
+                "number": 10,
+                "homePage": true,
+                "createTime": "2018-12-15T07:32:34.000+0000",
+                "updateTime": "2018-12-15T07:32:34.000+0000"
+            },
+            "shop": null,
+            "createTime": "2018-12-17T07:24:34.000+0000",
+            "image": "dghdlhfglergjlr",
+            "status": "PROCESS"
+        }
+    ]
+}
